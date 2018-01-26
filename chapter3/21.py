@@ -1,4 +1,3 @@
-import json
 import re
 from q20 import load_file
 
